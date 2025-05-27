@@ -1,6 +1,12 @@
 [package]
 name = "frontend"
+description = "Leptos based Client side rendered (CSR) Frontend for CTF-rs"
 version = "0.1.0"
 edition = "2024"
+license = "AGPL-3.0-or-later"
+readme = "README.md"
+homepage = "https://github.com/libctf/frontend"
+keywords = ["frontend", "ctf", "ui", "csr", "leptos"]
+categories = ["web-programming::http-client", "gui"]
 
 [dependencies]
