@@ -1,5 +1,5 @@
 [package]
-name = "frontend"
+name = "ctf-rs-frontend"
 description = "Leptos based Client side rendered (CSR) Frontend for CTF-rs"
 version = "0.1.0"
 edition = "2024"
